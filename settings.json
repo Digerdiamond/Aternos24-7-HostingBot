@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "bestbrothers134.aternos.me",
+    "port": 58612,
     "version": "",
     "try-creative": false
   },
@@ -78,8 +78,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1481774175847714906/JHCKzvLPj7KG2w5zlpfdGULCc8YKkkBe8LdywwtSvB1ciRlSLfQeL9coDQDqe77xQ4lU",
     "events": {
       "connect": true,
       "disconnect": true,
