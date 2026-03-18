@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bestbrothers134.aternos.me",
-    "port": 58612,
-    "version": "",
+    "ip": "cheesycreativefah.aternos.me",
+    "port": 59775,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -74,8 +74,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": true,
